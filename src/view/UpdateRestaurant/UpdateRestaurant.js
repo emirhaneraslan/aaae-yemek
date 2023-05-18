@@ -1,4 +1,4 @@
-import Footer from "../../components/FixedFooter/Footer"
+import Footer from "../../components/Footer/Footer"
 import Navbar from "../../components/HomeNavbar/Navbar"
 import './UpdateRestaurant.css'
 import {useNavigate} from 'react-router-dom'
